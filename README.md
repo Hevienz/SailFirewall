@@ -1,2 +1,2 @@
 # SailFirewall
-https://gitee.com/Hevienz/SailFirewall
+https://www.gitlink.org.cn/hevienz/SailFirewall
